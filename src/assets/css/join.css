@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Sen', sans-serif;
+}
+
+body {
+  background: url(../images/2.gif) no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.about {
+  margin-left: 50vmin;
+  color: white;
+  font-size: 2.5vmax;
+  margin-top: 10vmin;
+  position: center;
+  transition: 0.6s ease;
+  padding-bottom: 5%;
+}
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  border-style: solid;
+  border-width: 0 3px 6px 0;
+  border-color: #fff;
+  border-radius: 15px;
+  background-color: #473c3b;
+  padding: 15px;
+  
+}
+
+.btn:hover {
+  background-color: 	#7289da;
+}
+
+.community-btn{
+height: 5%;
+width: 7%;
+}
+
+.p-content{
+  font-size: 1vmax;
+  padding-right: 40%;
+}
+
+.list-items{
+  padding-left: 5%;
+}
+
+footer{
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
