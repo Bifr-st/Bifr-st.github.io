@@ -4,4 +4,4 @@
 > Bifr-st.github.io
 ## Links
 
-- [Discord channel](https://discord.gg/tsSNNXaCcj).
+- [Discord channel](https://discord.gg/9aWnJBgKEY).
