@@ -1,4 +1,4 @@
-![Bifrost logo](./logo.png)
+![Bifrost logo](./assets/logo.png)
 
 ### Bifrost community website.
 > Bifr-st.github.io
